@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title + 2 Pictures</title>
+    </head>  
+    
+    <style>
+        
+        body{
+
+        }
+    
+    h1 {
+        font-family: impact;
+        font-size: 30px;
+        color:aqua;
+    }
+    
+    </style>
+    
+    <body>
+        
+        
+        <h1>PICTURES</h1>
+
+        <img src="2kids.jpg" style="width: 35%";>
+        <img src="tree.jpg" style="width: 35%";>
+        <img src="beautiful-sunset-green.jpg" style="width: 70%";>
+    </body>
+    
+    
+
+</html>
